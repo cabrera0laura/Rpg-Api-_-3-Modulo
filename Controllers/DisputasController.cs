@@ -10,6 +10,7 @@ using RpgApi.Models;
 
 namespace RpgApi.Controllers
 {
+    //O nome da rota pode ser alterado.
     [ApiController]
     [Route("[controller]")]
     public class DisputasController : ControllerBase
